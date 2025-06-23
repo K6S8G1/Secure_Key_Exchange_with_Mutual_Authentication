@@ -8,11 +8,11 @@
 ## 📁 Struktura projektu
 
 📦 Secure_Key_Exchange_with_Mutual_Authentication
-┣ 📜 alice_backend.py 
-┣ 📜 bob_backend.py 
-┣ 📜 common_crypto.py 
-┣ 📜 gui_alice.py 
-┣ 📜 gui_bob.py 
+┣ 📜 alice_backend.py  
+┣ 📜 bob_backend.py  
+┣ 📜 common_crypto.py  
+┣ 📜 gui_alice.py  
+┣ 📜 gui_bob.py  
 ┗ 📜 README.md
 
 
